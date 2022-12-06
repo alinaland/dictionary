@@ -11,9 +11,13 @@ a {
   margin: 0 auto;
 }
 
+.App-logo {
+  max-width: 500px;
+  display: block;
+}
 .App-header {
   font-size: 60px;
-  padding: 40px;
+
   color: #ffffff;
 }
 
